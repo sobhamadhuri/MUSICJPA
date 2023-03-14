@@ -1,0 +1,14 @@
+Here, we observed how to handle http handle requests by using ORM, JPA and Hibernate framework in Spring boot
+
+*we created REST API'S using spring boot, JDBC, H2 Database, JPA, Hibernate and SQL
+Tested RESTful API'S functionality using postman tool
+
+*GET, GET SPECIFIC TODO, POST, PUT AND DELETE methods are used those all are handled by controller class,
+repostiory we have to declare the methods for consistency and abstraction,
+In servic class we have written a business logic and
+model class we add the actual data representations.
+
+
+ide : https://learning.ccbp.in/ide/JSBCPRJYMQ
+
+DNS URL for viewing the desired outcome : https://sobhamadhurijjynjjsbcprjymq.drops.nxtwave.tech
